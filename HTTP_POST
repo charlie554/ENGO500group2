@@ -1,9 +1,8 @@
-POST /st-playground/proxy/v1.0/Datastreams(59003)/Observations HTTP/1.1
+POST /st-playground/proxy/v1.0/Datastreams(116680)/Observations HTTP/1.1
 Host: pg-api.sensorup.com
 Content-Type: application/json
 St-P-Access-Token: 78cc7eb2-9394-4675-b231-ff0a377a3674
 
 {
-   "phenomenonTime": "2015-12-02T05:50:52.271Z",
-   "result": ""
+   "result": "3"
 }
